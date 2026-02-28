@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WordPress Sync</string>
+    <string name="hint_site_url">https://appnbmedia.ru</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_load_posts">Загрузить посты</string>
+    <string name="settings">Настройки</string>
+    <string name="posts">Посты с сайта</string>
+<string name="error_no_url">Введите URL сайта в настройках</string>
+<string name="error_load">Ошибка загрузки</string>
+<string name="hint_username">Логин WordPress</string>
+<string name="hint_app_password">Пароль приложений</string>
+<string name="btn_my_catalog">Мой каталог</string>
+<string name="btn_stats">Статистика</string>
+<string name="auth_required">Укажи логин и пароль приложений</string>
+<string name="total_plays">Всего прослушиваний</string>
+<string name="platforms">Платформы</string>
+</resources>
